@@ -1,0 +1,14 @@
+C:\Users\Rog\source\repos\HW.Name\HW.Name\bin\Debug\net8.0\HW.Name.exe
+C:\Users\Rog\source\repos\HW.Name\HW.Name\bin\Debug\net8.0\HW.Name.deps.json
+C:\Users\Rog\source\repos\HW.Name\HW.Name\bin\Debug\net8.0\HW.Name.runtimeconfig.json
+C:\Users\Rog\source\repos\HW.Name\HW.Name\bin\Debug\net8.0\HW.Name.dll
+C:\Users\Rog\source\repos\HW.Name\HW.Name\bin\Debug\net8.0\HW.Name.pdb
+C:\Users\Rog\source\repos\HW.Name\HW.Name\obj\Debug\net8.0\HW.Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\HW.Name\HW.Name\obj\Debug\net8.0\HW.Name.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\HW.Name\HW.Name\obj\Debug\net8.0\HW.Name.AssemblyInfo.cs
+C:\Users\Rog\source\repos\HW.Name\HW.Name\obj\Debug\net8.0\HW.Name.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW.Name\HW.Name\obj\Debug\net8.0\HW.Name.dll
+C:\Users\Rog\source\repos\HW.Name\HW.Name\obj\Debug\net8.0\refint\HW.Name.dll
+C:\Users\Rog\source\repos\HW.Name\HW.Name\obj\Debug\net8.0\HW.Name.pdb
+C:\Users\Rog\source\repos\HW.Name\HW.Name\obj\Debug\net8.0\HW.Name.genruntimeconfig.cache
+C:\Users\Rog\source\repos\HW.Name\HW.Name\obj\Debug\net8.0\ref\HW.Name.dll
